@@ -82,7 +82,7 @@ A transparent, rule-based strategy translates large oil moves into an FX signal 
 
 ### Strategy performance
 
-![Cumulative performance of the rule-based oil-shock strategy](figures/strategy_performance.png)
+![Cumulative performance of the rule-based oil-shock strategy](figures/nok_strategy_performance.png)
 
 *The strategy is a diagnostic: results should be assessed after transaction costs, drawdowns, turnover, and out-of-sample validation.*
 
@@ -104,7 +104,6 @@ oil-shocks-fx-analysis/
 │   └── 02_oil_shocks_trading_strategy.ipynb
 ├── figures/
 │   ├── rolling_correlation.png
-│   ├── regression_summary.png
 │   └── strategy_performance.png
 └── data/
     └── README.md
