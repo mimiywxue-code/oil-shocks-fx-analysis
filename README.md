@@ -104,10 +104,10 @@ oil-shocks-fx-analysis/
 │   └── 02_oil_shocks_trading_strategy.ipynb
 ├── figures/
 │   ├── rolling_correlation.png
-│   ├── regression_summary.png             # optional; omit if the table above is sufficient
+│   ├── regression_summary.png
 │   └── strategy_performance.png
 └── data/
-    └── README.md                           # data source links and download instructions; do not upload licensed/raw data by default
+    └── README.md
 ```
 
 ## Reproducibility
