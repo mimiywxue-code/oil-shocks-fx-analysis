@@ -6,10 +6,14 @@ This project investigates how crude oil price shocks transmit into commodity-lin
 
 Using historical Brent crude oil and FX data, the analysis examines whether oil price movements generate persistent relationships with petro-currencies.
 
+![Strategy Performance](figures/strategy_performance.png)
+
 ## Research Questions
 
 - How strongly are CAD and NOK affected by oil price movements?
+- ![Oil FX Relationship](figures/oil_fx_relationship.png)
 - Does oil-FX sensitivity change during different market regimes?
+![Rolling correlation](figures/rolling_correlation.png)
 - Can oil shocks generate actionable FX trading signals?
 
 ## Methodology
