@@ -74,13 +74,11 @@ A transparent, rule-based strategy translates large oil moves into an FX signal 
 
 ### Regression summary
 
-Replace the placeholders below with the exact notebook outputs before publishing. A compact table is better than inventing a beta-over-time chart.
-
 | Dependent FX return | Brent beta | p-value | R-squared | Takeaway |
 |---|---:|---:|---:|---|
-| CAD | `[insert]` | `[insert]` | `< 1%` | Strongest relationship in the sample, but weak as a standalone daily forecast |
-| NOK | `[insert]` | `[insert]` | `[insert]` | No statistically meaningful daily relationship in this specification |
-| EUR | `[insert]` | `[insert]` | `[insert]` | Benchmark relationship is not statistically meaningful |
+| CAD | 0.0191 | 0.2971 | 0.0082 | Strongest relationship in the sample, but weak as a standalone daily forecast |
+| NOK | 0.0152 | 0.9928 | 0.0008 | No statistically meaningful daily relationship in this specification |
+| EUR | 0.0006 | 0.8134 | 0.0017 | Benchmark relationship is not statistically meaningful |
 
 ### Strategy performance
 
