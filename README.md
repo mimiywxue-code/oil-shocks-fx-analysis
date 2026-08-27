@@ -75,13 +75,13 @@ A transparent, rule-based strategy translates large oil moves into an FX signal 
 
 | Dependent FX return | Brent beta | p-value | R-squared | Takeaway |
 |---|---:|---:|---:|---|
-| CAD | 0.0191 | 0.2971 | 0.0082 | Strongest relationship in the sample, but weak as a standalone daily forecast |
+| CAD | 0.0191 | 0.2971 | 0.0082 | Largest estimated oil sensitivity in the sample, but not statistically significant and weak as a standalone daily forecast |
 | NOK | 0.0152 | 0.9928 | 0.0008 | No statistically meaningful daily relationship in this specification |
 | EUR | 0.0006 | 0.8134 | 0.0017 | Benchmark relationship is not statistically meaningful |
 
 ### Strategy performance
 
-![Cumulative performance of the rule-based oil-shock strategy](figures/nok_strategy_performance.png)
+![Cumulative performance of the NOK oil-shock strategy](figures/nok_strategy_performance.png)
 
 
 ## What the analysis does—and does not—claim
