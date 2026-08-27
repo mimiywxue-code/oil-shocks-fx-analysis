@@ -70,7 +70,6 @@ A transparent, rule-based strategy translates large oil moves into an FX signal 
 
 ![Rolling correlation between Brent and FX returns](figures/rolling_correlation.png)
 
-*Use this figure to show the time-varying relationship rather than claiming a constant beta.*
 
 ### Regression summary
 
@@ -84,7 +83,6 @@ A transparent, rule-based strategy translates large oil moves into an FX signal 
 
 ![Cumulative performance of the rule-based oil-shock strategy](figures/nok_strategy_performance.png)
 
-*The strategy is a diagnostic: results should be assessed after transaction costs, drawdowns, turnover, and out-of-sample validation.*
 
 ## What the analysis does—and does not—claim
 
